@@ -1,0 +1,23 @@
+.castItems {
+  list-style-type: none;
+  color: rgb(119, 114, 114);
+  font-size: 20px;
+  padding: 10px;
+  margin-right: 5px;
+  border: 1px solid rgb(180, 78, 211);
+  box-shadow: 0px 2px 8px 3px rgba(217, 25, 169, 0.2);
+}
+.items {
+  padding-top: 40px;
+  display: grid;
+  width: 100%;
+  max-width: 750px;
+  margin: 0 auto;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+.noInfoTitle {
+  color: rgb(119, 114, 114);
+  font-size: 18px;
+  padding: 10px;
+}
