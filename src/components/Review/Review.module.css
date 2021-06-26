@@ -1,0 +1,13 @@
+.reviewsItems {
+  list-style-type: none;
+  padding: 0 10px;
+}
+
+.descr {
+  font-size: 18px;
+  color: #696669;
+}
+.title {
+  font-size: 26px;
+  color: blueviolet;
+}
