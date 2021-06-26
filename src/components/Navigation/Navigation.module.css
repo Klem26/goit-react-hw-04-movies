@@ -1,0 +1,25 @@
+.navLink {
+  font-weight: bold;
+  display: block;
+}
+.wrapper {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 30px;
+  overflow: hidden;
+  background-color: #f365f34a;
+  border-bottom: 1px solid #eee;
+}
+
+.nav {
+  color: white;
+  vertical-align: middle;
+  text-align: center;
+  padding: 14px 16px;
+}
+.nav:hover,
+.nav:focus {
+  transform: scale(1.03);
+}
